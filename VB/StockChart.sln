@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockChart", "StockChart\StockChart.vbproj", "{8129F4C9-854D-47B9-8F57-5B46EB5CFB95}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockChart.Web", "StockChart.Web\StockChart.Web.vbproj", "{DCDEE81B-2C65-4145-BFD5-F32BBF56E0D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8129F4C9-854D-47B9-8F57-5B46EB5CFB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8129F4C9-854D-47B9-8F57-5B46EB5CFB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8129F4C9-854D-47B9-8F57-5B46EB5CFB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8129F4C9-854D-47B9-8F57-5B46EB5CFB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDEE81B-2C65-4145-BFD5-F32BBF56E0D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDEE81B-2C65-4145-BFD5-F32BBF56E0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDEE81B-2C65-4145-BFD5-F32BBF56E0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDEE81B-2C65-4145-BFD5-F32BBF56E0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
