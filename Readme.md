@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/StockChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/StockChart/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Stock chart
 
 
