@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/StockChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/StockChart/MainPage.xaml))
 <!-- default file list end -->
 # How to create a 2D Stock chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3716)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to create a 2D Stock chart.</p><br />
